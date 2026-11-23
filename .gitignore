@@ -1,0 +1,18 @@
+# Sorties volumineuses de calcul (régénérables, souvent > 100 Mo)
+*.frd
+*.dat
+*.sta
+*.cvg
+*.12d
+*.vtu
+*.vtk
+*.inp.bak
+# Sauvegardes et cache
+*.FCBak
+*.FCStd1
+*.bak
+~$*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
