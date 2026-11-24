@@ -1,12 +1,13 @@
-# Échangeur à tubes et calandre en 316L — CAO, plans, simulation FEM
+# Échangeur tubes, calandre en acier inoxydable 316L. 
+# CAO, plans, simulation FEM
 
-Échangeur **à plaques tubulaires fixes** conçu sous FreeCAD 1.1.3, vérifié par éléments finis (CalculiX 2.23) sous pression et sous gradient thermique, avec plans normalisés ISO.
+Échangeur **à plaques tubulaires fixes** conçu sous FreeCAD 1.1.3, vérifié par éléments finis CalculiX 2.23  sous pression et sous gradient thermique, avec plans normalisés ISO.
 
-**Auteur** : Boris Keubou Wamba — M2 TMA, Grenoble.
+**Auteur** : Boris Keubou Wamba. M2 TMA, Grenoble.
 
-![Modèle 3D de l'échangeur](images/modele_3d.png)
+![Modèle 3D de l'échangeur](images/arbre_freecad.png)
 
-*Modèle 3D (FreeCAD) : calandre, deux brides, quatre tubulures, deux pattes, boîtes d'extrémité.*
+*Modèle 3D FreeCAD : calandre, deux brides, quatre tubulures, deux pattes, boîtes d'extrémité.*
 
 ![Plan d'ensemble coté](images/plan_ensemble.png)
 
@@ -47,7 +48,7 @@ Les scripts FreeCAD contiennent le chemin `/CHEMIN/VERS/projet_echangeur` à rem
 
 ## Vidéos
 
-Dans [`videos/`](videos/) (cliquer sur un fichier pour le lire dans GitHub) :
+Quelles vidéos des simulations réalisées 
 
 | Fichier | Contenu |
 |---|---|
